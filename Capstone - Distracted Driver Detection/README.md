@@ -17,9 +17,18 @@ The dataset used for this project can be downloaded from Kaggle  [Kaggle - State
 	driver_imgs_list.csv - a list of training images 
 
 
+Read the Project report (Project Report.pdf) and open "Project summary" IPython notebook to review models trained and their accuracies.
 Download the files and extract imgs.zip to 'Distracted_Data' folder in the current working directory.
-Read the Project report and open "Project summary" python notebook to review models trained and their accuracies.
+After extracting files from imgs.zip, make sure that the path for training and test file is /Distracted_Data/imgs/train/ and 
+/Distracted_Data/imgs/train/ repsectively. 
 Project summary has the option to load saved models to regenerate submission files. Submit the results in the Kaggle competition and view the score
-
 Submissions folder has submissions made to get the score mentioned in the project report document and project summary IPython notebook.
 
+Description for documents in the project repo.
+1. Project Report: High level overview of the project. 
+2. Project Summary.ipynb: IPython Notebook where I loaded and compared benchmark model with other models and final model built and trained on the Disracted Driver dataset.
+3. VGGNet.ipynb:  Benchmark model creation and training. 
+4. Distracted_Driver-Inception.ipynb: Fine tuned Inception model 
+5. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
+6. VGG19.ipynb: Final fine tuned VGG19 model with best score on the training and test dataset. 
+6. submission_function.py: Util file with function to generate submission files in format required by Kaggle
