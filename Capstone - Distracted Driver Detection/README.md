@@ -26,9 +26,9 @@ Submissions folder has submissions made to get the score mentioned in the projec
 
 Description for documents in the project repo.
 1. Project Report: High level overview of the project. 
-2. Project Summary.ipynb: IPython Notebook where I loaded and compared benchmark model with other models and final model built and trained on the Disracted Driver dataset.
-3. VGGNet.ipynb:  Benchmark model creation and training. 
-4. Distracted_Driver-Inception.ipynb: Fine tuned Inception model 
-5. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
-6. VGG19.ipynb: Final fine tuned VGG19 model with best score on the training and test dataset. 
+2. VGG19.ipynb:  Benchmark model creation and training. 
+3. Distracted_Driver-Inception.ipynb: Fine tuned Inception model 
+4. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
+5. VGGNet.ipynb: Final fine tuned VGG16 model with best score on the training and test dataset. 
 6. submission_function.py: Util file with function to generate submission files in format required by Kaggle
+7. Project Summary.ipynb: IPython Notebook where I loaded and compared benchmark model with other models and final model built and trained on the Disracted Driver dataset.
