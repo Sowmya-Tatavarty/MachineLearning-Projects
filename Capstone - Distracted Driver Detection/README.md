@@ -31,4 +31,5 @@ Description for documents in the project repo.
 4. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
 5. Final Model-VGG19.ipynb: Final fine tuned VGG19 model with best score on the test dataset. 
 6. submission_function.py: Util file with function to generate submission files in format required by Kaggle
+
 Link to project prosposal review https://review.udacity.com/#!/reviews/1580936
