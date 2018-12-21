@@ -26,7 +26,7 @@ Submissions folder has submissions made to get the score mentioned in the projec
 
 Description for documents in the project repo.
 1. Project Report: High level overview of the project. 
-2. VGG19.ipynb:  Benchmark model creation and training. 
+2. Final Model - VGG19.ipynb:  Benchmark model creation and training. 
 3. Distracted_Driver-Inception.ipynb: Fine tuned Inception model 
 4. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
 5. VGGNet.ipynb: Final fine tuned VGG16 model with best score on the training and test dataset. 
