@@ -30,7 +30,7 @@ Description for documents in the project repo.
 3. Distracted_Driver-Inception.py: Fine tuned Inception model 
 4. Distracted_Driver-ResNet.ipynb: Fine tuned Resnet model
 5. VGG19-Preprocessed_Input.py: Fine tuned VGG19 model with pre processed input
-6. Final_Model_KFOLD.py: Final Model with Kfold cross validation trained on VGG19-Preprocessed_Input.py
+6. Final_Model_KFOLD.py: Final Model with Kfold cross validation trained on VGG19
 6. submission_function.py: Util file with function to generate submission files in format required by Kaggle
 
 Link to project prosposal review https://review.udacity.com/#!/reviews/1580936
